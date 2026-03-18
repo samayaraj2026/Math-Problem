@@ -20,7 +20,7 @@ function Multiply(n1, n2) {
     return n1 * n2;
 }
 
-console.log(Multiply(10, 10));
+console.log(Multiply(20, 10));
 
 //divide
 
