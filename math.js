@@ -21,3 +21,10 @@ function Multiply(n1, n2) {
 }
 
 console.log(Multiply(10, 10));
+
+//divide
+
+function divide(d1, d2){
+    return d1/d2
+}
+console.log(divide(80,4))
