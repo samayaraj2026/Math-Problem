@@ -17,3 +17,5 @@ function trimFunc(str){
     console.log(str.trim())
 }
 trimFunc("hello                 ")
+
+console.log('right console...');
